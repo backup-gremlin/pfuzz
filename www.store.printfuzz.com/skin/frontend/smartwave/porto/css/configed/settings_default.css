@@ -1,0 +1,152 @@
+/**
+ * WARNING: Do not change this file. Your changes will be lost.
+ * 2017-01-17 17:37:56 */
+
+#homepgtopcontainer{
+	width:100%;
+	margin: 15px auto auto;
+}
+
+.homepgtopnode {
+	width: 32.28%;
+	margin: 0.52666667%;
+	border: 1px #666 solid;
+	float: left;
+}
+
+.homepgtopnode a img{
+	width: 100%;
+	height: auto;
+	background-color:#FFF;
+}
+
+.homepgtopnode a img:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+
+@media screen and (max-width: 480px){
+	.homepgtopnode {
+		width: 100%;
+		margin: 0.5% 0%;
+		float: left;
+	}
+}.homepgspan1, .homepgspan2, .homepgspan3, .homepgspan4, .homepgspan5{
+    float:left;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+.homepgcol{
+  margin-left: 0.5%;
+}
+
+.homepgcol:first-child {
+  margin-left:0;
+}
+
+.homepgspan1{
+  width: 19.2%;
+  border: 1px #666 solid;
+  text-align:center;
+  margin: auto 0.4%;
+}
+.homepgspan1 img{
+	width:100%;
+	height:auto;
+	border-bottom: 1px #666 solid;
+}
+
+.homepgspan1 a h3 {
+	color: #333;
+	text-decoration:none;
+	padding: 0px 5px;
+}
+
+.homepgspan2{
+  width: 39.7%;
+  
+}
+.homepgspan3{
+  width: 59.8%;
+  
+}
+.homepgspan4{
+  width: 79.9%;
+  
+}
+.homepgspan5{
+  width: 100%;
+  margin-left: 0;
+}
+
+.featinner{
+  margin: 0 auto;
+}
+
+.design-btn {
+    padding: 10px 0px 0px 29%;
+    margin-top: -130px;
+}
+
+
+@media screen and (max-width: 768px){
+
+  .homepgspan1{
+    width: 46%;
+  }
+  nav .homepgspan2{
+    width: 100%;
+  }
+
+  .homepgspan3, article{
+    width: 100%;
+  }
+
+  .homepgspan2, aside{
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .featinner{
+    width: 90%;
+    padding: 0 5% 0 5%;
+  }
+
+	.design-btn {
+		padding: 10px 0px 0px 32%;
+	}
+}
+
+
+/* Micro Clearfix */
+
+/* For modern browsers */
+.cf_home:before,
+.cf_home:after {
+    content:"";
+    display:table;
+}
+
+.cf_home:after {
+    clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf_home {
+    *zoom:1;
+}
+
+@media screen and (max-width: 480px) {
+	.homepgspan1{
+		width: 100%;
+	}
+
+	.design-btn {
+		width: 100%;
+		padding: 10px 0px 0px 37%;
+		margin-top: 0px;
+	}
+}
