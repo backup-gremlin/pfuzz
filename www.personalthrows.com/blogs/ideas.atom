@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/blogs/ideas.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/blogs/ideas"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/blogs/ideas.atom"/>
+  <title>PersonalThrows - Ideas</title>
+  <updated>2017-09-21T13:31:00-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/blogs/ideas/create-a-stylish-chevron-layout-for-your-towel-or-blanket</id>
+    <published>2017-09-21T13:31:00-04:00</published>
+    <updated>2017-09-21T14:35:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/blogs/ideas/create-a-stylish-chevron-layout-for-your-towel-or-blanket"/>
+    <title>Create a stylish Chevron layout for your towel or blanket!</title>
+    <author>
+      <name>Elbot Carman</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Want to create stylish layout with neat text effects and a fancy mask around your photo? Look no further! This tutorial shows this being done on a round towel, but this can be implemented on most of our products.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZwCyIfIhzo" frameborder="0" allowfullscreen=""></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/blogs/ideas/state-pride</id>
+    <published>2017-09-20T14:15:00-04:00</published>
+    <updated>2017-09-20T14:15:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/blogs/ideas/state-pride"/>
+    <title>State Pride</title>
+    <author>
+      <name>tej pande</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Let everyone see how proud you are of where you come from!  </p>
+<p>Use clip art from our collection or upload your own into our design tool to create a unique personalized design that will show of your hometown pride.</p>
+<p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/Georgia_On_My_Mind_large.JPG?v=1505853325" alt=""><img src="//cdn.shopify.com/s/files/1/1336/2769/files/DontMessWTexas_large.JPG?v=1505853909" alt=""></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/blogs/ideas/saying-i-love-you-with-clip-art</id>
+    <published>2017-09-19T15:57:00-04:00</published>
+    <updated>2017-09-20T15:26:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/blogs/ideas/saying-i-love-you-with-clip-art"/>
+    <title>Saying &quot;I love you&quot; with clip art</title>
+    <author>
+      <name>tej pande</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Use our enormous library of clip art to create a personalized gift for your sweetheart! <iframe width="560" height="315" src="https://www.youtube.com/embed/dRC6oFZxWn4" frameborder="0" allowfullscreen=""></iframe></p>
+<p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/Nine_Lives_of_Love_large.JPG?v=1505851786" alt=""></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/blogs/ideas/help-i-want-to-make-a-family-blanket-but-i-dont-have-photos-of-everyone</id>
+    <published>2017-09-19T15:57:00-04:00</published>
+    <updated>2017-09-20T15:26:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/blogs/ideas/help-i-want-to-make-a-family-blanket-but-i-dont-have-photos-of-everyone"/>
+    <title>Help! I want to make a family blanket, but I don&apos;t have photos of everyone.</title>
+    <author>
+      <name>tej pande</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Use our Design Tool to design a family heirloom blanket that is sure to be treasured for years to come.  The best part is, you don't even need photos.</p>
+<p>Watch the video below to see how!</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/JaPk-gE2sqQ" frameborder="0" allowfullscreen=""></iframe></p>
+<p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/Family_Quilt_2_large.JPG?v=1505851894" alt=""></p>]]>
+    </content>
+  </entry>
+</feed>

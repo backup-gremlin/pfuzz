@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/photo-towels.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-10-27T12:46:10-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111712579</id>
+    <published>2017-10-27T12:46:10-04:00</published>
+    <updated>2017-10-27T12:46:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/double-sided-photo-beach-towel-30-x-60"/>
+    <title>Double-Sided Photo Beach Towel - 30&quot; x 60&quot;</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/other-products-valentine-s-day-gifts-mother-s-day-gifts-photo-towels-double-sided-photo-beach-towel-30-x-60-1.jpg?v=1501186982" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            53.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A towel unlike what you're used to – made from absorbent microfiber, this soft and plush towel is thinner than a normal terrycloth towel, but dries you off just as well! A perfect gift for the spring and summer months.
+<ul>
+<li>
+<strong>Size:</strong> 30" x 60"</li>
+<li>
+<strong>Material:</strong> Microfiber Polyester <em>(Thinner than Terrycloth)</em>
+</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>
+<p><em><strong>This product is specifically for front and back imprinting on the towel.</strong></em></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111712579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.79</s:price>
+      <s:sku>30x60TWLBCH-2SIDED</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110620739</id>
+    <published>2017-09-18T15:16:00-04:00</published>
+    <updated>2017-09-18T15:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-hand-towel-15x22"/>
+    <title>Photo Hand Towel- 15&quot;x22&quot;</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-other-products-mother-s-day-gifts-photo-hand-towel-15-x22-1.jpg?v=1506962534" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            33.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Photo Hand Towel (White)</li>
+<li>15"x22"</li>
+<li>Micro-Polyester</li>
+<li>Prewashed</li>
+<li>Does not shrink</li>
+<li>Production Time: Ships in 3-5 Business Days.</li>
+<li>Softness Index: Super Soft</li>
+</ul>
+<div>
+<div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div>
+</div>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110620739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.95</s:price>
+      <s:sku>15x22TWL-HAND</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110642819</id>
+    <published>2017-09-18T15:15:52-04:00</published>
+    <updated>2017-09-18T15:15:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-golf-towel-15x22"/>
+    <title>Photo Golf Towel - 15&quot;x22&quot;</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-other-products-mother-s-day-gifts-photo-golf-towel-15-x22-1.jpg?v=1506962522" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Size: 15" x 22"</li>
+<li>Material: Micro-Polyester</li>
+<li>Production Process: Dye Sublimation</li>
+<li>Prewashed</li>
+<li>Does not shrink</li>
+<li>Production Time: Ships in 3-5 Business Days.</li>
+<li>Softness Index: Super Soft</li>
+</ul>
+<div>
+<div>
+<div>
+<div>
+<ul></ul>
+</div>
+</div>
+</div>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110642819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>15x22TWL-GOLF-09</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111701443</id>
+    <published>2017-07-13T15:49:07-04:00</published>
+    <updated>2017-07-13T15:49:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/35-x-60-heavyweight-terry-velour-photo-collage-beach-towel"/>
+    <title>35&quot; x 60&quot; Heavyweight Terry-Velour Quick Collage Beach Towel - 8 Image Template</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-35-x-60-heavyweight-terry-velour-photo-quick-collage-beach-towel-1.jpg?v=1501186931" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span><span>Go with upscale, soft and luxurious with our Heavyweight Terry-Velour Beach Towel – thicker and heavier than our regular 30" x 60" beach towels! A perfect gift for the spring and summer months.</span></span><meta charset="utf-8"><span>  This option allows you to quickly and easily set up an 8 image collage using our template and your images!</span>
+<ul>
+<li>
+<strong>Size:</strong><span> </span>35" x 60"</li>
+<li>
+<strong>Material:</strong><span> </span>75% Polyester, 25% Cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super Soft</li>
+<li>
+<strong>Texture:</strong><span> </span>Poly-velour front, high-end plush cotton backing</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111701443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>35x60TWL-HVYBCH-CLG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111281027</id>
+    <published>2017-07-13T13:10:40-04:00</published>
+    <updated>2017-07-13T13:10:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-collage-beach-towel-30-x-60"/>
+    <title>Photo Quick Collage Beach Towel -6 Image Template- 30&quot; x 60&quot;</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-photo-quick-collage-beach-towel-30-x-60-1.jpg?v=1506962624" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>A towel unlike what you're used to – made from absorbent microfiber, this soft and plush towel is thinner than a normal terrycloth towel, but dries you off just as well! A perfect gift for the spring and summer months.  This option allows you to quickly and easily set up a 6 image collage using our template and your images!</span>
+<ul>
+<li>
+<strong>Size:</strong><span> </span>30" x 60"</li>
+<li>
+<strong>Material:</strong><span> </span>Microfiber Polyester<span> </span><em>(Thinner than Terrycloth)</em>
+</li>
+<li>
+<strong>Production Process:</strong><span> </span>Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super Soft</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111281027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>30x60TWL-BEACH-CLG</s:sku>
+      <s:grams>426</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10554905603</id>
+    <published>2017-06-27T10:04:27-04:00</published>
+    <updated>2017-06-27T10:04:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/60-x-72-two-person-terry-velour-photo-beach-towel"/>
+    <title>60&quot; x 72&quot; Two-Person Terry-Velour Photo Beach Towel</title>
+    <s:type></s:type>
+    <s:vendor>PersonalThrows</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/60-x-72-two-person-terry-velour-photo-beach-towel-1.jpg?v=1500068772" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>PersonalThrows<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Our largest beach towel yet, perfect for couples! A perfect gift for the spring and summer months.</span>
+<ul>
+<li>
+<strong>Size:</strong><span> 60</span>" x 72"</li>
+<li>
+<strong>Material:</strong><span> </span>75% Polyester, 25% Cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super Soft</li>
+<li>
+<strong>Texture:</strong><span> </span>Poly-velour front, high-end plush cotton backing</li>
+<li>Set it up with a single image or a collage!</li>
+</ul> <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10554905603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>60x72TWL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10663105795</id>
+    <published>2017-06-27T10:04:27-04:00</published>
+    <updated>2017-06-27T10:04:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/60-x-72-two-person-terry-velour-quick-collage-beach-towel"/>
+    <title>60&quot; x 72&quot; Two-Person Terry-Velour Quick Collage Beach Towel -12 Image Template</title>
+    <s:type></s:type>
+    <s:vendor>PersonalThrows</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/60-x-72-two-person-terry-velour-quick-collage-beach-towel-1.jpg?v=1501187927" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>PersonalThrows<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Our largest beach towel yet, perfect for couples! A perfect gift for the spring and summer months.  This option allows you to quickly and easily set up a 12 image collage using our template and your images!</span>
+<ul>
+<li>
+<strong>Size:</strong><span> 60</span>" x 72"</li>
+<li>
+<strong>Material:</strong><span> </span>75% Polyester, 25% Cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super Soft</li>
+<li>
+<strong>Texture:</strong><span> </span>Poly-velour front, high-end plush cotton backing</li>
+</ul>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10663105795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>60x72TWL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110650883</id>
+    <published>2017-05-26T15:47:57-04:00</published>
+    <updated>2017-05-26T15:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-beach-towel-30-x-60"/>
+    <title>Photo Beach Towel - 30&quot; x 60&quot;</title>
+    <s:type>Photo Towels,Valentine&apos;s Day Gifts,Other Products,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-valentine-s-day-gifts-other-products-mother-s-day-gifts-photo-beach-towel-30-x-60-1.jpg?v=1506962525" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels,Valentine&#39;s Day Gifts,Other Products,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A towel unlike what you're used to – made from absorbent microfiber, this soft and plush towel is thinner than a normal terrycloth towel, but dries you off just as well! A perfect gift for the spring and summer months.
+<ul>
+<li>
+<strong>Size:</strong> 30" x 60"</li>
+<li>
+<strong>Material:</strong> Microfiber Polyester <em>(Thinner than Terrycloth)</em>
+</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110650883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.95</s:price>
+      <s:sku>30x60TWLBCH</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111698627</id>
+    <published>2017-04-27T17:55:59-04:00</published>
+    <updated>2017-04-27T17:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/35-x-60-heavyweight-terry-velour-photo-beach-towel"/>
+    <title>35&quot; x 60&quot; Heavyweight Terry-Velour Photo Beach Towel</title>
+    <s:type>Other Products,Valentine&apos;s Day Gifts,Mother&apos;s Day Gifts,Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/other-products-valentine-s-day-gifts-mother-s-day-gifts-photo-towels-35-x-60-heavyweight-terry-velour-photo-beach-towel-1.jpg?v=1501186923" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Other Products,Valentine&#39;s Day Gifts,Mother&#39;s Day Gifts,Photo Towels<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Go with upscale, soft and luxurious with our Heavyweight Terry-Velour Beach Towel – thicker and heavier than our regular 30" x 60" beach towels! A perfect gift for the spring and summer months.
+<ul>
+<li>
+<strong>Size:</strong> 35" x 60"</li>
+<li>
+<strong>Material:</strong> 75% Polyester, 25% Cotton</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+<li>
+<strong>Texture:</strong> Poly-velour front, high-end plush cotton backing</li>
+<li>Set it up with a single image or a collage!</li>
+</ul> <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111698627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.95</s:price>
+      <s:sku>35x60TWL-HVYBCH</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111689475</id>
+    <published>2017-04-27T17:55:08-04:00</published>
+    <updated>2017-04-27T17:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/60-round-photo-beach-towel"/>
+    <title>60&quot; Round Photo Beach Towel</title>
+    <s:type>Photo Towels,Mother&apos;s Day Gifts,Valentine&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-mother-s-day-gifts-valentine-s-day-gifts-60-round-photo-beach-towel-1.jpg?v=1500068595" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels,Mother&#39;s Day Gifts,Valentine&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This soft and absorbent polyester and cotton loop terry beach towel reverses to an ultra-smooth microfiber side that's optimized for full color photos. Whether you're lounging by the pool, headed to the beach and more, this towel is a great way to relax while making a personal statement.
+<ul>
+<li>
+<strong>Size:</strong> 60" Diameter</li>
+<li>
+<strong>Material:</strong> 75% Polyester, 25% Cotton; Micro Fiber Towel fabric front, Cotton terrycloth back</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+<li>Set it up with a single image or a collage!</li>
+</ul> <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111689475</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>60TWL-CIRCULAR-09</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10630756675</id>
+    <published>2017-04-27T17:55:08-04:00</published>
+    <updated>2017-04-27T17:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/60-round-quick-collage-beach-towel"/>
+    <title>60&quot; Round Quick Collage Beach Towel -9 Image Template</title>
+    <s:type>Photo Towels</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-60-round-quick-collage-beach-towel-1.jpg?v=1501187386" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This soft and absorbent polyester and cotton loop terry beach towel reverses to an ultra-smooth microfiber side that's optimized for full color photos. Whether you're lounging by the pool, headed to the beach and more, this towel is a great way to relax while making a personal statement. This option allows for you to quickly and easily set up a 9 image collage using our template and your images!
+<ul>
+<li>
+<strong>Size:</strong> 60" Diameter</li>
+<li>
+<strong>Material:</strong> 75% Polyester, 25% Cotton; Micro Fiber Towel fabric front, Cotton terrycloth back</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10630756675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>60TWL-CIRCULAR</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111666627</id>
+    <published>2017-04-27T17:52:49-04:00</published>
+    <updated>2017-04-27T17:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-ribbed-kitchen-towel-18-x-35"/>
+    <title>Photo Ribbed Kitchen Towel - 18&quot; x 35&quot;</title>
+    <s:type>Photo Towels,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-towels-mother-s-day-gifts-photo-ribbed-kitchen-towel-18-x-35-1.jpg?v=1506962715" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Towels,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Reproduce your photos in the style of a stunning 18" x 35" ribbed textured kitchen towel. Your layout is dyed in stunning clarity onto this absorbent addition to your kitchen.
+<div>
+<ul>
+<li>
+<strong>Size:</strong> 18" x 35"</li>
+<li>
+<strong>Material:</strong> Microfiber Polyester</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super Soft</li>
+<li>
+<strong>Texture:</strong> Ribbed</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>
+</div> <p><iframe width="560" height="315" src="https://www.youtube.com/embed/XsiD6iI4HmY" frameborder="0" allowfullscreen=""></iframe></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Towels</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111666627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>18x35TWL-KTCHN</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/themed-designer-blankets.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-07-19T00:28:08-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111117955</id>
+    <published>2017-07-19T00:28:08-04:00</published>
+    <updated>2017-07-19T00:28:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-blanket-rod-kit-for-hanging-22-56"/>
+    <title>Photo Blanket Rod Kit for hanging 22&quot;-56&quot;</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-photo-blanket-rod-kit-for-hanging-22-56-1.jpg?v=1506962523" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do you wish you could turn your photo blanket into a wall hanging? Now you can! All you have to do is to purchase this picture blanket hanging accessory. It comes with Solid Rings and Clips for Hanging and Displaying an Afghan or Throw.</p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111117955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PT91001ROD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111750723</id>
+    <published>2017-07-19T00:27:35-04:00</published>
+    <updated>2017-07-19T00:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/hanging-kit-rings-with-clips"/>
+    <title>Hanging Kit, Rings with Clips</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-hanging-kit-rings-with-clips-1.jpg?v=1506961058" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this set of clips to turn any photo blanket into a wall hanging. This set of 7 rings with clips allows you to turn any blanket and curtain rod into a hanging tapestry.</p>
+<ul style="text-align: left;">
+<li>
+<strong>Includes:</strong> Set of 7 rings with clips.</li>
+<li><em>Hanging rod not included.</em></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111750723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>28002</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10547487683</id>
+    <published>2017-06-24T13:37:47-04:00</published>
+    <updated>2017-06-24T13:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/sweet-heart-photo-throw-gray-scale-w-red-hearts"/>
+    <title>Sweet Heart Photo Throw (gray-scale) w/red hearts</title>
+    <s:type></s:type>
+    <s:vendor>PersonalThrows</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/sweet-heart-photo-throw-gray-scale-w-red-hearts-1.jpg?v=1506966725" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>PersonalThrows<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95 - 124.95
+            <a href="https://www.personalthrows.com/products/sweet-heart-photo-throw-gray-scale-w-red-hearts">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Say HAPPY ANNIVERSARY, or HAPPY VALENTINES DAY in a unique wonderful way! Your image is placed in this gray and red design perfect for any romantic occasion!
+<div>
+<ul>
+<li>Available in Numerous Sizes and Fabrics</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>#images:</strong> Maximum 1 image</li>
+<li>
+<strong>Included Image Work:</strong> Image Creation by skilled Artists</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+</ul>
+<p><em>This is a product designed to be set up by our internal art team.  Proofing is included.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>full service design</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>Themed Designer Blankets</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>30&quot; x 40&quot; Polar Fleece</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>D001-HRTGRAY-30x40RGF</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>50&quot; x 60&quot; Polar Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D001-HRTGRAY-50x60RGF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>60&quot; x 80&quot; Polar Fleece</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D001-HRTGRAY-60x80RGF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>30&quot; x 40&quot; Plush Fleece</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>D001-HRTGRAY-30x40PLF</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>40&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D001-HRTGRAY-40x60PLF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>50&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D001-HRTGRAY-50x60PLF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>60&quot; x 80&quot; Plush Fleece</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>D001-HRTGRAY-60x80PLF</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>50&quot; x 60&quot; Sherpa</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D001-HRTGRAY-50x60SHRPA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>54&quot; x 38&quot; HD Woven</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D001-HRTGRAY-54x38HDW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>60&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>D001-HRTGRAY-60x54HDW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10547487683</id>
+      <title>70&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>D001-HRTGRAY-70x54HDW</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10552669891</id>
+    <published>2017-06-24T13:37:47-04:00</published>
+    <updated>2017-06-24T13:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/butterfly-collage-throw-1"/>
+    <title>Butterfly Collage Throw</title>
+    <s:type></s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/butterfly-collage-throw-1.jpg?v=1500068729" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95 - 124.95
+            <a href="https://www.personalthrows.com/products/butterfly-collage-throw-1">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A straightforward design available in two colors (pink and blue), that accommodates 12 photos. It's perfect for when you have a lot of pictures to use!
+<div>
+<ul>
+<li>Available in Numerous Sizes and Fabrics</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>#images:</strong> Requires 12 images</li>
+<li>
+<strong>Included Image Work:</strong> Image Creation by skilled Artists</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+</ul>
+<p><em>This is a product designed to be set up by our internal art team.  Proofing is included.</em></p>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>full service design</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>Themed Designer Blankets</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>30&quot; x 40&quot; Polar Fleece</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>D045-ButflyCOL-30x40RGF</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>50&quot; x 60&quot; Polar Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D045-ButflyCOL-50x60RGF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>60&quot; x 80&quot; Polar Fleece</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D045-ButflyCOL-60x80RGF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>30&quot; x 40&quot; Plush Fleece</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>D045-ButflyCOL-30x40PLF</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>40&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D045-ButflyCOL-40x60PLF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>50&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D045-ButflyCOL-50x60PLF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>60&quot; x 80&quot; Plush Fleece</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>D045-ButflyCOL-60x80PLF</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>50&quot; x 60&quot; Sherpa</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D045-ButflyCOL-50x60SHRPA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>54&quot; x 38&quot; HD Woven</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D045-ButflyCOL-54x38HDW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>60&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>D045-ButflyCOL-60x54HDW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552669891</id>
+      <title>70&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>D045-ButflyCOL-70x54HDW</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10552712323</id>
+    <published>2017-06-24T13:37:47-04:00</published>
+    <updated>2017-06-24T13:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/daisy-collage-throw"/>
+    <title>Daisy Collage Throw</title>
+    <s:type></s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/daisy-collage-throw-1.jpg?v=1500068755" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95 - 124.95
+            <a href="https://www.personalthrows.com/products/daisy-collage-throw">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This trendy, spring-themed Daisy design is set up to accommodate four of your favorite photos. Create a lasting memory with this beautiful floral motif!
+<div>
+<ul>
+<li>Available in Numerous Sizes and Fabrics</li>
+<li>
+<strong>Production Process:</strong> Dye Sublimation</li>
+<li>
+<strong>#images:</strong> Requires 4 images</li>
+<li>
+<strong>Included Image Work:</strong> Image Creation by skilled Artists</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-5 Business Days.</li>
+</ul>
+<p><em>This is a product designed to be set up by our internal art team.  Proofing is included.</em></p>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>full service design</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>Themed Designer Blankets</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>30&quot; x 40&quot; Polar Fleece</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>D119-DAISY-30x40RGF</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>50&quot; x 60&quot; Polar Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D119-DAISY-50x60RGF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>60&quot; x 80&quot; Polar Fleece</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D119-DAISY-60x80RGF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>30&quot; x 40&quot; Plush Fleece</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>D119-DAISY-30x40PLF</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>40&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>D119-DAISY-40x60PLF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>50&quot; x 60&quot; Plush Fleece</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D119-DAISY-50x60PLF</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>60&quot; x 80&quot; Plush Fleece</title>
+      <s:price currency="USD">104.95</s:price>
+      <s:sku>D119-DAISY-60x80PLF</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>50&quot; x 60&quot; Sherpa</title>
+      <s:price currency="USD">94.95</s:price>
+      <s:sku>D119-DAISY-50x60SHRPA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>54&quot; x 38&quot; HD Woven</title>
+      <s:price currency="USD">84.95</s:price>
+      <s:sku>D119-DAISY-54x38HDW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>60&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>D119-DAISY-60x54HDW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10552712323</id>
+      <title>70&quot; x 54&quot; HD Woven</title>
+      <s:price currency="USD">124.95</s:price>
+      <s:sku>D119-DAISY-70x54HDW</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/photo-canvases.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-04-27T15:41:32-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110423683</id>
+    <published>2017-04-27T15:41:32-04:00</published>
+    <updated>2017-04-27T15:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/24x36-canvas-gallery-wrap"/>
+    <title>24&quot; x 36&quot; x 0.75&quot; Photo Canvas</title>
+    <s:type>Photo Canvas</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-canvas-24-x-36-x-0-75-photo-canvas-1.jpg?v=1500068442" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Canvas<br>
+        <strong>Price: </strong>
+            109.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 24" x 36"  x 0.75" Photo Canvas Gallery Wrap - A personalized piece of wall art, printed on archival artists' canvas with eco-solvent inks; these items make a high class gift for any occasion. <span>Your photo printed onto archival quality artists' canvas and gallery wrapped around a 3/4" frame.</span>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>Archival Quality Artist Canvas</li>
+<li>
+<strong>Production Process:</strong><span> </span>Eco-Solvent Printing</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 4-6 business days.</li>
+<li>Comes ready to hang!</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Canvas</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110423683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>C2436GW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110414339</id>
+    <published>2017-04-27T15:40:51-04:00</published>
+    <updated>2017-04-27T15:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/20-x-24-photo-canvas"/>
+    <title>20&quot; x 24&quot; x 0.75&quot; Photo Canvas</title>
+    <s:type>Photo Canvas</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-canvas-20-x-24-x-0-75-photo-canvas-1.jpg?v=1500068434" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Canvas<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 20" x 24" x 0.75" Photo Canvas - A personalized archival canvas print that comes ready to hang on your wall. <span>Your photo printed onto archival quality artists' canvas and gallery wrapped around a 3/4" frame.</span>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>Archival Quality Artist Canvas</li>
+<li>
+<strong>Production Process:</strong><span> </span>Eco-Solvent Printing</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 4-6 business days.</li>
+<li>Comes ready to hang!</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Canvas</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110414339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>C2024GW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110408899</id>
+    <published>2017-04-27T15:40:31-04:00</published>
+    <updated>2017-04-27T15:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/16x20-photo-on-canvas-wall-art"/>
+    <title>16&quot; x 20&quot; x 0.75&quot; Photo Canvas</title>
+    <s:type>Photo Canvas</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-canvas-16-x-20-x-0-75-photo-canvas-1.jpg?v=1500068427" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Canvas<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 16" x 20" x 0.75" Photo Canvas - Your photo printed onto archival quality artists' canvas and gallery wrapped around a frame.
+<ul>
+<li>
+<strong>Material:</strong><span> </span>Archival Quality Artist Canvas</li>
+<li>
+<strong>Production Process:</strong><span> </span>Eco-Solvent Printing</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 4-6 business days.</li>
+<li>Comes ready to hang!</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Canvas</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110408899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>C1620GW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110395651</id>
+    <published>2017-04-27T15:39:42-04:00</published>
+    <updated>2017-04-27T15:39:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/11-x-14-photo-canvas"/>
+    <title>11&quot; x 14&quot; x 0.75&quot; Photo Canvas</title>
+    <s:type>Photo Canvas</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-canvas-11-x-14-x-0-75-photo-canvas-1.jpg?v=1506959492" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Canvas<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 11" x 14" x 0.75" Photo Canvas Print - Turn your personal photo in a customized work of art!  Your photo printed onto archival quality artists' canvas and gallery wrapped around a 3/4" frame.</p>
+<ul>
+<li>
+<strong>Material:</strong> Archival Quality Artist Canvas</li>
+<li>
+<strong>Production Process:</strong> Eco-Solvent Printing</li>
+<li>
+<strong>Production Time:</strong> Ships in 4-6 business days.</li>
+<li>Comes ready to hang!</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Canvas</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110395651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>C1114GW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

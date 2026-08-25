@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/microfleece-photo-pillows.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-04-27T15:32:29-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110318851</id>
+    <published>2017-04-27T15:32:29-04:00</published>
+    <updated>2017-04-27T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/20-square-microfleece-photo-pillow"/>
+    <title>20&quot; Square MicroFleece Photo Pillow</title>
+    <s:type>Photo Pillows,Valentine&apos;s Day Gifts,Other Products,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-valentine-s-day-gifts-other-products-mother-s-day-gifts-20-square-microfleece-photo-pillow-1.jpg?v=1500068403" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Valentine&#39;s Day Gifts,Other Products,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Preserve your precious memories in a luxurious micro-fleece pillow you can sit about the couch with. Our stain resistant micro-fleece comes in several different colors and is of the highest quality; Each pillow contains a hypoallergenic 100% polyester pillow insert. Sham and insert are both included in the price of each sized pillow.<meta charset="utf-8">
+<ul>
+<li>
+<strong>Size:</strong><span> 20</span>" x 20"</li>
+<li>
+<strong>Material</strong>: Luxurious micro-fleece material</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 5-8 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super soft feel.</li>
+<li>Dye Sublimation Printed - Image never Fades</li>
+<li>Machine Washable cover and insert</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MicroFleece Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110318851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>20MFPLW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110315075</id>
+    <published>2017-04-27T15:32:09-04:00</published>
+    <updated>2017-04-27T15:32:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/24-x-16-microfleece-photo-pillow"/>
+    <title>24&quot; X 16&quot; MicroFleece Photo Pillow</title>
+    <s:type>Photo Pillows,Valentine&apos;s Day Gifts,Other Products,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-valentine-s-day-gifts-other-products-mother-s-day-gifts-24-x-16-microfleece-photo-pillow-1.jpg?v=1500068397" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Valentine&#39;s Day Gifts,Other Products,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Each pillow contains a hypoallergenic 100% polyester pillow insert. Sham and insert are both included in the price of each sized pillow.<meta charset="utf-8">
+<ul>
+<li>
+<strong>Size:</strong><span> 24</span>" x 16"</li>
+<li>
+<strong>Material</strong>: Luxurious micro-fleece material</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 5-8 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super soft feel.</li>
+<li>Dye Sublimation Printed - Image never Fades</li>
+<li>Machine Washable cover and insert</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MicroFleece Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110315075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>24x16MFPLW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110310787</id>
+    <published>2017-04-27T15:31:49-04:00</published>
+    <updated>2017-04-27T15:31:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/16-square-microfleece-photo-pillow"/>
+    <title>16&quot; Square MicroFleece Photo Pillow</title>
+    <s:type>MicroFleece Pillows</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/microfleece-pillows-16-square-microfleece-photo-pillow-1.jpg?v=1500068392" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>MicroFleece Pillows<br>
+        <strong>Price: </strong>
+            39.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 16" Micro-Fleece Photo Pillow is the perfect size for those looking to not give up too much couch space, however. Surround your seating companion with luxurious polar fleece material. Each pillow contains a hypoallergenic 100% polyester pillow insert. Sham and insert are both included in the price of each sized pillow.
+<ul>
+<li>
+<strong>Size:</strong> 16" x 16"</li>
+<li>
+<strong>Material</strong>: Luxurious micro-fleece material</li>
+<li>
+<strong>Production Time:</strong> Ships in 5-8 Business Days.</li>
+<li>
+<strong>Softness Index:</strong> Super soft feel.</li>
+<li>Dye Sublimation Printed - Image never Fades</li>
+<li>Machine Washable cover and insert</li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MicroFleece Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110310787</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.94</s:price>
+      <s:sku>16MFPLW</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110306627</id>
+    <published>2017-04-27T15:31:28-04:00</published>
+    <updated>2017-04-27T15:31:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/24-square-microfleece-photo-pillow"/>
+    <title>24&quot; Square MicroFleece Photo Pillow</title>
+    <s:type>Photo Pillows,Valentine&apos;s Day Gifts,Other Products,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-valentine-s-day-gifts-other-products-mother-s-day-gifts-24-square-microfleece-photo-pillow-1.jpg?v=1500068388" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Valentine&#39;s Day Gifts,Other Products,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Each pillow is hand finished and contains a hypoallergenic 100% polyester pillow insert. Sham and insert are both included in the price of each sized pillow.<meta charset="utf-8">
+<ul>
+<li>
+<strong>Size:</strong><span> 24</span>" x 24"</li>
+<li>
+<strong>Material</strong>: Luxurious micro-fleece material</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 5-8 Business Days.</li>
+<li>
+<strong>Softness Index:</strong><span> </span>Super soft feel.</li>
+<li>Dye Sublimation Printed - Image never Fades</li>
+<li>Machine Washable cover and insert</li>
+</ul>
+<div></div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MicroFleece Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110306627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>24MFPLW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

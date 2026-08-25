@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/personalized-floormats.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-04-27T16:28:20-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110861571</id>
+    <published>2017-04-27T16:28:20-04:00</published>
+    <updated>2017-04-27T16:28:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/small-photo-floor-mat-18-x-24-20-oz-loop-8-oz-felt-durgan-backed"/>
+    <title>Small Photo Floor Mat, 18&quot; x 24&quot;, 8 oz Felt, Durgan Backed</title>
+    <s:type>Photo Home &amp; Office</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-home-office-small-photo-floor-mat-18-x-24-8-oz-felt-durgan-backed-1.jpg?v=1506966685" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Home &amp; Office<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Personalized photo floor mat is the first thing your guest will see upon entering your home. Our mesmerizing craftsmanship and breathtaking designs make for great wedding, Christmas and birthday gifts or just a must have accent piece for your home.</span></p>
+<ul>
+<li><span class="feat-name"><strong>Material:</strong> Rubber-backed Felt Mat Material, 100% Polyester Front</span></li>
+<li><span class="feat-name"><strong>Production Process:</strong> Dye Sublimation</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong> Ships in 3-5 Business Days.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Personalized Floormats</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110861571</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PTFM1824</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110848579</id>
+    <published>2017-04-27T16:26:57-04:00</published>
+    <updated>2017-04-27T16:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/medium-photo-floor-matfloor-mat-24-x-36-8-oz-felt-durgan-backed"/>
+    <title>Medium Photo Floor Mat, 24&quot; x 36&quot;, 8 oz Felt, Durgan Backed</title>
+    <s:type>Photo Home &amp; Office</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-home-office-medium-photo-floor-mat-24-x-36-8-oz-felt-durgan-backed-1.jpg?v=1506962016" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Home &amp; Office<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalized photo floor mat is the first thing your guest will see upon entering your home. Our mesmerizing craftsmanship and breathtaking designs make for great wedding, Christmas and birthday gifts or just a must have accent piece for your home.</p>
+<meta charset="utf-8">
+<ul>
+<li><span class="feat-name"><strong>Material:</strong><span> </span>Rubber-backed Felt Mat Material, 100% Polyester Front</span></li>
+<li><span class="feat-name"><strong>Production Process:</strong><span> </span>Dye Sublimation</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Personalized Floormats</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110848579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>PTFM2436</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110846979</id>
+    <published>2017-04-27T16:26:48-04:00</published>
+    <updated>2017-04-27T16:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/large-photo-floor-mat-36-x-60-8-oz-felt-durgan-backed"/>
+    <title>Large Photo Floor Mat, 36&quot; x 60&quot;, 8 oz Felt, Durgan Backed</title>
+    <s:type>Photo Home &amp; Office</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-home-office-large-photo-floor-mat-36-x-60-8-oz-felt-durgan-backed-1.jpg?v=1506961964" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Home &amp; Office<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalized photo floor mat is the first thing your guest will see upon entering your home. Our mesmerizing craftsmanship and breathtaking designs make for great wedding, Christmas and birthday gifts or just a must have accent piece for your home.</p>
+<meta charset="utf-8">
+<ul>
+<li><span class="feat-name"><strong>Material:</strong><span> </span>Rubber-backed Felt Mat Material, 100% Polyester Front</span></li>
+<li><span class="feat-name"><strong>Production Process:</strong><span> </span>Dye Sublimation</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong><span> </span>Ships in 3-5 Business Days.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Personalized Floormats</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110846979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>PTFM3660</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

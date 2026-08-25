@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/jacquard-woven-photo-blankets.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-07-19T00:28:08-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111117955</id>
+    <published>2017-07-19T00:28:08-04:00</published>
+    <updated>2017-07-19T00:28:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/photo-blanket-rod-kit-for-hanging-22-56"/>
+    <title>Photo Blanket Rod Kit for hanging 22&quot;-56&quot;</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-photo-blanket-rod-kit-for-hanging-22-56-1.jpg?v=1506962523" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Do you wish you could turn your photo blanket into a wall hanging? Now you can! All you have to do is to purchase this picture blanket hanging accessory. It comes with Solid Rings and Clips for Hanging and Displaying an Afghan or Throw.</p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111117955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>PT91001ROD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111750723</id>
+    <published>2017-07-19T00:27:35-04:00</published>
+    <updated>2017-07-19T00:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/hanging-kit-rings-with-clips"/>
+    <title>Hanging Kit, Rings with Clips</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-hanging-kit-rings-with-clips-1.jpg?v=1506961058" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this set of clips to turn any photo blanket into a wall hanging. This set of 7 rings with clips allows you to turn any blanket and curtain rod into a hanging tapestry.</p>
+<ul style="text-align: left;">
+<li>
+<strong>Includes:</strong> Set of 7 rings with clips.</li>
+<li><em>Hanging rod not included.</em></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111750723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>28002</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110243651</id>
+    <published>2017-07-12T15:47:20-04:00</published>
+    <updated>2017-07-12T15:47:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-collage-blanket-80-x-54-x-large"/>
+    <title>Jacquard Woven Quick Collage Blanket -8 Image Template- 80&quot; x 54&quot; (X-Large)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-quick-collage-blanket-80-x-54-x-large-1.jpg?v=1506961902" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom! This option allows for you to quickly and easily set up a 8 image collage using our template and your images!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 80</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>self service design</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110243651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.99</s:price>
+      <s:sku>80x54JQW-CLG</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10703295683</id>
+    <published>2017-07-12T15:47:20-04:00</published>
+    <updated>2017-07-12T15:47:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-full-service-collage-blanket-80-x-54-x-large"/>
+    <title>Jacquard Woven Full Service Collage Blanket - 80&quot; x 54&quot; (X-Large)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-full-service-collage-blanket-80-x-54-x-large-1.jpg?v=1506961629" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 80</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>
+<strong>Maximum No. Images:</strong><span> </span>Allows for up to 8 images.</li>
+</ul>
+<br>
+<p><em>This is a full-service collage layout set up by our art team. Proofing is included.</em></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>full service design</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10703295683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>80x54JQW-CLGFS</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110241923</id>
+    <published>2017-07-12T15:40:36-04:00</published>
+    <updated>2017-07-12T15:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-collage-blanket-70-x-54-large"/>
+    <title>Jacquard Woven Quick Collage Blanket-6 Image Template- 70&quot; x 54&quot; (Large)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-quick-collage-blanket-70-x-54-large-1.jpg?v=1506961939" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom! This option allows for you to quickly and easily set up a 6 image collage using our template and your images!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 70</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>self service design</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110241923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>70x54JQW-CLG</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10703281091</id>
+    <published>2017-07-12T15:40:36-04:00</published>
+    <updated>2017-07-12T15:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-full-service-collage-blanket-70-x-54-large"/>
+    <title>Jacquard Woven Full Service Collage Blanket - 70&quot; x 54&quot; (Large)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-full-service-collage-blanket-70-x-54-large-1.jpg?v=1506961541" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 70</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>
+<strong>Maximum No. Images:</strong><span> </span>Allows for up to 6 images.</li>
+</ul>
+<br>
+<p><em>This is a full-service collage layout set up by our art team. Proofing is included.</em></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>full service design</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10703281091</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>70x54JQW-CLGFS</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110240259</id>
+    <published>2017-07-12T15:30:42-04:00</published>
+    <updated>2017-07-12T15:30:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-collage-blanket-60-x-54-medium"/>
+    <title>Jacquard Woven Quick Collage Blanket-6 Image Template- 60&quot; x 54&quot; (Medium)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-quick-collage-blanket-60-x-54-medium-1.jpg?v=1506961941" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            104.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom! This option allows for you to quickly and easily set up a 6 image collage using our template and your images!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 60</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>self service design</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110240259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.99</s:price>
+      <s:sku>60x54JQW-CLG</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10703261827</id>
+    <published>2017-07-12T15:30:42-04:00</published>
+    <updated>2017-07-12T15:30:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-full-service-collage-blanket-60-x-54-medium"/>
+    <title>Jacquard Woven Full Service Collage Blanket - 60&quot; x 54&quot; (Medium)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-full-service-collage-blanket-60-x-54-medium-1.jpg?v=1506961629" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> 60</span>" x 54"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>
+<strong>Maximum No. Images:</strong><span> </span>Allows for up to 6 images.</li>
+</ul>
+<br>
+<p><em>This is a full-service collage layout set up by our art team. Proofing is included.</em></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>full service design</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10703261827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.99</s:price>
+      <s:sku>60x54JQW-CLGFS</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110850179</id>
+    <published>2017-07-12T15:14:27-04:00</published>
+    <updated>2017-07-12T15:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-collage-blanket-54-x-38-small"/>
+    <title>Jacquard Woven Quick Collage Blanket-4 Image Template- 54&quot; x 38&quot; (Small)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-quick-collage-blanket-54-x-38-small-1.jpg?v=1506961908" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom! This option allows for you to quickly and easily set up a 4 image collage using our template and your photos!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> </span>54" x 38"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+</ul>
+<br>
+<p style="font-size: 12px;"><em>NOTE: The "Collage Border" area of any quick collage layout must be filled with a background color or pattern fill of some kind and cannot be left empty. Please do not place text or photos in the "Collage Border" area.</em></p>
+<h2 class="description"><strong>Watch a Video to see how Design tool Works</strong></h2>
+ <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:tag>self service design</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110850179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>54x38JQW-CLG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10703245763</id>
+    <published>2017-07-12T15:14:27-04:00</published>
+    <updated>2017-07-12T15:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/copy-of-jacquard-woven-quick-collage-blanket-54-x-38-small"/>
+    <title>Jacquard Woven Full Service Collage Blanket - 54&quot; x 38&quot; (Small)</title>
+    <s:type>Photo Blankets</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-jacquard-woven-full-service-collage-blanket-54-x-38-small-1.jpg?v=1506961515" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong><span> </span>54" x 38"</li>
+<li>
+<strong>Material:</strong><span> </span>100% cotton</li>
+<li>
+<strong>Production Process:</strong><span> </span>Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong><span> </span>Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>
+<strong>Maximum No. Images:</strong><span> </span>Allows for up to 4 images.</li>
+</ul>
+<br>
+<p><em>This is a full-service collage layout set up by our art team. Proofing is included.</em></p> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collage Photo Blankets</s:tag>
+    <s:tag>full service design</s:tag>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10703245763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.99</s:price>
+      <s:sku>54x38JQW-CLGFS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110302851</id>
+    <published>2017-04-27T15:31:08-04:00</published>
+    <updated>2017-04-27T15:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-photo-blanket-80-x-54-xlarge"/>
+    <title>Jacquard Woven Photo Blanket - 80&quot; x 54&quot; (XLarge)</title>
+    <s:type>Photo Blankets,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-mother-s-day-gifts-jacquard-woven-photo-blanket-80-x-54-xlarge-1.jpg?v=1506961852" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p style="font-size: 85%;"><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong> 80" x 54"</li>
+<li>
+<strong>Material:</strong> 100% cotton</li>
+<li>
+<strong>Production Process:</strong> Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>  <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110302851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.99</s:price>
+      <s:sku>80x54JQW</s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110298883</id>
+    <published>2017-04-27T15:30:49-04:00</published>
+    <updated>2017-04-27T15:30:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-photo-blanket-70-x-54-large"/>
+    <title>Jacquard Woven Photo Blanket - 70&quot; x 54&quot; (Large)</title>
+    <s:type>Photo Blankets,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-mother-s-day-gifts-jacquard-woven-photo-blanket-70-x-54-large-1.jpg?v=1506961766" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p style="font-size: 85%;"><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong> 70" x 54"</li>
+<li>
+<strong>Material:</strong> 100% cotton</li>
+<li>
+<strong>Production Process:</strong> Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>  <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110298883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>70x54JQW</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110295107</id>
+    <published>2017-04-27T15:30:30-04:00</published>
+    <updated>2017-04-27T15:30:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-photo-blanket-60-x-54-medium"/>
+    <title>Jacquard Woven Photo Blanket - 60&quot; x 54&quot; (Medium)</title>
+    <s:type>Photo Blankets,Holiday Gifts,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-holiday-gifts-mother-s-day-gifts-jacquard-woven-photo-blanket-60-x-54-medium-1.jpg?v=1506961816" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets,Holiday Gifts,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            104.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p style="font-size: 85%;"><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong> 60" x 54"</li>
+<li>
+<strong>Material:</strong> 100% cotton</li>
+<li>
+<strong>Production Process:</strong> Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>  <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110295107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.99</s:price>
+      <s:sku>60x54JQW</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110291075</id>
+    <published>2017-04-27T15:30:10-04:00</published>
+    <updated>2017-04-27T15:30:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/jacquard-woven-photo-blanket-54-x-38-small"/>
+    <title>Jacquard Woven Photo Blanket - 54&quot; x 38&quot; (Small)</title>
+    <s:type>Photo Blankets,Holiday Gifts,Mother&apos;s Day Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-blankets-holiday-gifts-mother-s-day-gifts-jacquard-woven-photo-blanket-54-x-38-small-1.jpg?v=1506961633" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Blankets,Holiday Gifts,Mother&#39;s Day Gifts<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional woven blanket created by turning your image into a loom pattern. Three-layer woven, 100% cotton. An instant heirloom!</p>
+<p style="font-size: 85%;"><em>The size indicated includes the fringes. The dimensions do not mean the image itself will be that exact size and additionally there is a 5-7% variance in size due to woven nature of product and cotton shrinkage factors.</em></p>
+<ul>
+<li>
+<strong>Size:</strong> 54" x 38"</li>
+<li>
+<strong>Material:</strong> 100% cotton</li>
+<li>
+<strong>Production Process:</strong> Jacquard Weaving with 100% Cotton Yarn</li>
+<li>
+<strong>Production Time:</strong> Ships in 3-4 Weeks.</li>
+<li>Image is converted to a 6-color pattern and woven into a blanket. Best suited for closeup images.</li>
+<li>Set it up with a single image or a collage!</li>
+</ul>  <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacquard Woven Blankets</s:tag>
+    <s:tag>picture on blanket</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110291075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>54x38JQW</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

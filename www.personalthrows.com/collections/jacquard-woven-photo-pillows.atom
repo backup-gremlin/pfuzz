@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/jacquard-woven-photo-pillows.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-04-27T15:33:41-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110330115</id>
+    <published>2017-04-27T15:33:41-04:00</published>
+    <updated>2017-04-27T15:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/woven-photo-pillow-27-x-27"/>
+    <title>Woven Photo Pillow - 27&quot; x 27&quot;</title>
+    <s:type>Photo Pillows,Other Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-other-products-woven-photo-pillow-27-x-27-1.jpg?v=1506967097" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Other Products<br>
+        <strong>Price: </strong>
+            144.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your image is converted into a loom pattern and woven into tapestry fabric to make the front of these high quality pillows.  Our woven pillows are sewn with Black corded edges and black backing with your image woven on the front.  A truly unique and decorative gift.</p>
+<meta charset="utf-8">
+<ul>
+<li><span class="feat-name"><strong>Size:</strong> 27" x 27"</span></li>
+<li><span class="feat-name"><strong>Material:</strong> 100% Egyptian Cotton</span></li>
+<li><span class="feat-name"><strong>Photo Recommendation:</strong> Best with 1 Headshot</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong> Ships in 4-5 Weeks.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Woven Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110330115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">144.99</s:price>
+      <s:sku>27x27JWNPLW</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110328387</id>
+    <published>2017-04-27T15:33:32-04:00</published>
+    <updated>2017-04-27T15:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/woven-photo-pillow-26-x-34"/>
+    <title>Woven Photo Pillow -26&quot; x 34&quot;</title>
+    <s:type>Photo Pillows,Other Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-other-products-woven-photo-pillow-26-x-34-1.jpg?v=1506967104" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Other Products<br>
+        <strong>Price: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Your image is converted into a loom pattern and woven into tapestry fabric to make the front of these high quality pillows.  Our<span> </span>woven<span> </span>pillows are sewn with Black corded edges and black backing with your<span> </span>image woven on<span> </span>the front.  A<span> </span>truly unique and<span> </span>decorative<span> </span>gift.</p>
+<ul>
+<li><span class="feat-name"><strong>Size:</strong><span> </span>26" x 34"</span></li>
+<li><span class="feat-name"><strong>Material:</strong><span> </span>100% Egyptian Cotton</span></li>
+<li><span class="feat-name"><strong>Photo Recommendation:</strong><span> </span>Best with 1 Headshot</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong><span> </span>Ships in 4-5 Weeks.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Woven Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110328387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>26x34JWNPLW</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10110327235</id>
+    <published>2017-04-27T15:33:23-04:00</published>
+    <updated>2017-04-27T15:33:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/woven-photo-pillow-17-x-17"/>
+    <title>Woven Photo Pillow - 17&quot; x 17&quot;</title>
+    <s:type>Photo Pillows,Other Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-pillows-other-products-woven-photo-pillow-17-x-17-1.jpg?v=1506967102" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Pillows,Other Products<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Your image is converted into a loom pattern and woven into tapestry fabric to make the front of these high quality pillows.  Our<span> </span>woven<span> </span>pillows are sewn with Black corded edges and black backing with your<span> </span>image woven on<span> </span>the front.  A<span> </span>truly unique and<span> </span>decorative<span> </span>gift.</p>
+<ul>
+<li><span class="feat-name"><strong>Size:</strong><span> 1</span>7" x 17"</span></li>
+<li><span class="feat-name"><strong>Material:</strong><span> </span>100% Egyptian Cotton</span></li>
+<li><span class="feat-name"><strong>Photo Recommendation:</strong><span> </span>Best with 1 Headshot</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong><span> </span>Ships in 4-5 Weeks.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Woven Pillows</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10110327235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>17x17JWNPLW-09</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

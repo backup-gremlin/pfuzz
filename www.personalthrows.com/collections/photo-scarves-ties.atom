@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.personalthrows.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.personalthrows.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.personalthrows.com/collections/photo-scarves-ties.atom"/>
+  <title>PersonalThrows</title>
+  <updated>2017-08-22T16:04:42-04:00</updated>
+  <author>
+    <name>PersonalThrows</name>
+  </author>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111350019</id>
+    <published>2017-08-22T16:04:42-04:00</published>
+    <updated>2017-08-22T16:04:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/17-photo-christmas-stocking"/>
+    <title>17&quot; Photo Christmas Stocking</title>
+    <s:type>Holiday Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/holiday-gifts-17-photo-christmas-stocking-1.jpg?v=1501185556" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Holiday Gifts<br>
+        <strong>Price: </strong>
+            23.74 - 24.99
+            <a href="https://www.personalthrows.com/products/17-photo-christmas-stocking">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>We had them last year, and they're back! Photo Christmas Stockings!</strong>
+<div>Our talented designers have created a high quality design to frame your photo before it's printed onto the stocking. This product is available in two different fabrics:</div>
+<div></div>
+<div>
+<div><strong>Coarse Weave Fabric</strong></div>
+<div>A 100% polyester fabric with a visible weave. Its texture is comparable to canvas. Stockings made from this fabric come without a lining.</div>
+</div>
+<div></div>
+<div><strong>Fleece Fabric</strong></div>
+<div>This fabric is much like the fleece our Polar Fleece Blankets are made from; it is soft and smooth to the touch. Stockings made from this fabric come with a lining, available in the following colors:<br><strong>White</strong>, <strong>Red</strong>, and <strong>Green</strong>
+</div>
+<div>
+<ul>
+<li>
+<strong>Production Time:</strong> Ships out in 4 to 6 Business Days after final proof approval.</li>
+<li><em>Proofing included.</em></li>
+</ul>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111350019</id>
+      <title>Coarse Weave (No Lining)</title>
+      <s:price currency="USD">23.74</s:price>
+      <s:sku>17STOCKING-PlyCnvs</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111350019</id>
+      <title>Fleece /w White Lining</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17STOCKING-WhtLng</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111350019</id>
+      <title>Fleece /w Red Lining</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17STOCKING-RedLng</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111350019</id>
+      <title>Fleece /w Green Lining</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17STOCKING-GrnLng</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111351619</id>
+    <published>2017-08-22T16:01:49-04:00</published>
+    <updated>2017-08-22T16:01:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/8-x-21-photo-christmas-stocking"/>
+    <title>8&quot; x 21&quot; Photo Christmas Stocking</title>
+    <s:type>Holiday Gifts</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/holiday-gifts-8-x-21-photo-christmas-stocking-1.jpg?v=1501185563" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Holiday Gifts<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: bold; font-size: 14pt;">Back again for the Holiday Season; the Photo Christmas Stocking!</span>
+<div>8" x 21", and comes ready to hang. Our talented designers have created a high quality design in the spirit of the holidays to frame your photo before it's printed onto the stocking.</div>
+<div>
+<ul>
+<li>
+<strong>Material:</strong> 100% Polyester, Coarse Weave Poly-Duck Fabric</li>
+<li>
+<strong>Production Time:</strong> Ships out in 4 to 6 Business Days after final proof approval.</li>
+<li><em>Proofing included.</em></li>
+</ul>
+</div> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111351619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>8x21STOCKING-HS19</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111304195</id>
+    <published>2017-04-27T17:15:41-04:00</published>
+    <updated>2017-04-27T17:15:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/personalized-photo-neck-tie"/>
+    <title>Personalized Photo Neck Tie</title>
+    <s:type>Photo Apparel,Other Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-apparel-other-products-personalized-photo-neck-tie-1.jpg?v=1506962203" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Apparel,Other Products<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A personalized poly-satin necktie, 3.5" x 56". A classy fashion accessory, these ties make great presentation pieces for your favorite photo.</p>
+<meta charset="utf-8">
+<ul>
+<li><span class="feat-name"><strong>Material:</strong> 100% Polyester, Poly-Satin</span></li>
+<li><span class="feat-name"><strong>Production Process:</strong>﻿ Dye Sublimation</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong> Ships in 5-7 Business Days.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Scarves &amp; Ties</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111304195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>SUBNTIE</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.personalthrows.com/products/10111099523</id>
+    <published>2017-04-27T16:53:40-04:00</published>
+    <updated>2017-04-27T16:53:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.personalthrows.com/products/personalized-photo-fleece-scarf"/>
+    <title>Personalized Photo Fleece Scarf</title>
+    <s:type>Photo Apparel,Valentine&apos;s Day Gifts,Other Products</s:type>
+    <s:vendor>vendor-unknown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1336/2769/products/photo-apparel-valentine-s-day-gifts-other-products-personalized-photo-fleece-scarf-1.jpg?v=1506962139" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>vendor-unknown<br>
+        <strong>Type: </strong>Photo Apparel,Valentine&#39;s Day Gifts,Other Products<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalized winter Scarf, made from soft Fleece, 61" x 8". Turn your photos into a winter fashion statement!</p>
+<meta charset="utf-8">
+<ul>
+<li><span class="feat-name"><strong>Material: </strong>100% Polyester Polar Fleece</span></li>
+<li><span class="feat-name"><strong>Production Process:</strong> Dye Sublimation</span></li>
+<li><span class="feat-name"><strong>Production Time:</strong> Ships in 3-5 Business Days.</span></li>
+</ul> <p><img src="//cdn.shopify.com/s/files/1/1336/2769/files/PT_ProductBadge.png?v=1509137419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Photo Scarves &amp; Ties</s:tag>
+    <s:variant>
+      <id>https://www.personalthrows.com/products/10111099523</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>SCRF-RGF</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+</feed>
